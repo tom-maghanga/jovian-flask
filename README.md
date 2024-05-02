@@ -1,2 +1,2 @@
 # jovian-flask
-A craeer webiste for Jovian flask course
+A career webiste for Jovian flask course
